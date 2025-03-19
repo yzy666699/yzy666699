@@ -6,6 +6,9 @@
     </a>
   </div>
 
+<div align="center">
+<img align="center" alt="GIF" src="https://github.com/yzy666699/yzy666699/blob/main/gif3.gif" width="500"/>
+  </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
