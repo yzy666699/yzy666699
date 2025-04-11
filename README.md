@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-  <div align="center">
-    <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=cout<<%22My%2C%20Code%22<<endl%3B;&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+
 
 <div align="center">
 <img align="center" alt="GIF" src="https://github.com/yzy666699/yzy666699/blob/main/gif3.gif" width="500"/>
