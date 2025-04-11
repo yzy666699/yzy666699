@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Antivirus Software Company
+- 🌱 I’m currently learning Static Analysis Symbolic Execution Taint Analysis
+- 👯 I’m looking to collaborate on Code
+- 💬 Ask me about Everything
 
 
 <div align="center">
